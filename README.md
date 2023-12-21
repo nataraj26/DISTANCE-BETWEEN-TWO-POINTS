@@ -26,6 +26,8 @@ dist=((b-a)**2+(d-c)**2)**(1/2)
 print("{:0.2f}".format(dist))
 ~~~  
 ### OUTPUT:
-![image](https://github.com/nataraj26/DISTANCE-BETWEEN-TWO-POINTS/assets/147514615/f297f1e0-480d-484d-8a0d-1f84f770048f)
+
+![image](https://github.com/nataraj26/DISTANCE-BETWEEN-TWO-POINTS/assets/147514615/367abfff-7424-437d-9f03-96213e3a3414)
+
 ### RESULT:
 Thus the python program to find the distance between two points is successfully executed.
