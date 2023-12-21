@@ -8,7 +8,7 @@ Giving values to the point x1 and x2.
 ### Step 2: 
 Giving values to the points y1 and y2
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula.
 ### Step 4: 
 Calculating the distance using normal method to make the code simple
 ### Step 5: 
